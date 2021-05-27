@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# java bytecode
+*.class
+*.jar
+# archives
+*.tar.gz
+*.zip
+# maven
+**/target/
+
+######################
+# Logs
+######################
+*.log*
+
+######################
+# Others
+######################
+*.*~
+*~
+.merge_file*
